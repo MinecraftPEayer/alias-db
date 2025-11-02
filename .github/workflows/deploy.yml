@@ -10,7 +10,7 @@ on:
     workflow_dispatch: {}
 
 jobs:
-    build:
+    build-and-publish:
         runs-on: ubuntu-latest
         container:
             image: node:22
@@ -28,14 +28,9 @@ jobs:
                 env:
                     DATA_URL: ${{ env.DATA_URL }}
                     ARCADE_LIST_URL: ${{ env.ARCADE_LIST_URL }}
-    deploy:
-        needs: build
-        runs-on: ubuntu-latest
-        permissions:
-            contents: write
-        steps:
             - name: Deploy to GitHub Pages
               uses: peaceiris/actions-gh-pages@v3
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   publish_dir: ./dist
+            
