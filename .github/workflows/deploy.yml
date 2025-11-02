@@ -1,5 +1,9 @@
 name: Daily Deploy
 
+env:
+    DATA_URL: https://alias-db.minecraftpeayer.me/api/get/
+    ARCADE_LIST_URL: https://alias-db.minecraftpeayer.me/arcades.json
+
 on:
     schedule:
         - cron: '0 0 * * *'
