@@ -1,8 +1,11 @@
-[
-  {
-    "name": "QZKago Requiem",
-    "alias": [
-      "茄子"
-    ]
-  }
-]
+{
+  "alias": [
+    {
+      "name": "QZKago Requiem",
+      "alias": [
+        "茄子"
+      ]
+    }
+  ],
+  "last_update": 1762070710939
+}

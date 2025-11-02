@@ -1,230 +1,233 @@
-[
-  {
-    "name": "系ぎて",
-    "alias": [
-      "系",
-      "6A級景區",
-      "倆舞神越級"
-    ]
-  },
-  {
-    "name": "インドア系ならトラックメイカー",
-    "alias": [
-      "室內系",
-      "卡車製造機",
-      "TrackMaker"
-    ]
-  },
-  {
-    "name": "PANDORA PARADOXXX",
-    "alias": [
-      "潘"
-    ]
-  },
-  {
-    "name": "ウミユリ海底譚",
-    "alias": [
-      "海百合海底譚",
-      "海底譚"
-    ]
-  },
-  {
-    "name": "花と、雪と、ドラムンベース。",
-    "alias": [
-      "花雪阿嬤",
-      "花一輪"
-    ]
-  },
-  {
-    "name": "幸せになれる隠しコマンドがあるらしい",
-    "alias": [
-      "幸隱",
-      "隱藏指令"
-    ]
-  },
-  {
-    "name": "きゅうくらりん",
-    "alias": [
-      "心跳不已"
-    ]
-  },
-  {
-    "name": "sølips",
-    "alias": [
-      "嗦"
-    ]
-  },
-  {
-    "name": "raputa",
-    "alias": [
-      "拉葡萄",
-      "葡萄"
-    ]
-  },
-  {
-    "name": "Southern Cross",
-    "alias": [
-      "南十字"
-    ]
-  },
-  {
-    "name": "Oshama Scramble!",
-    "alias": [
-      "Obama Scramble",
-      "奶貓"
-    ]
-  },
-  {
-    "name": "Fragrance",
-    "alias": [
-      "斜塔",
-      "香水"
-    ]
-  },
-  {
-    "name": "tape/stop/night",
-    "alias": [
-      "強虫",
-      "tsn"
-    ]
-  },
-  {
-    "name": "弱虫モンブラン",
-    "alias": [
-      "弱虫"
-    ]
-  },
-  {
-    "name": "Our Wrenally",
-    "alias": [
-      "OW",
-      "魔法阿嬤"
-    ]
-  },
-  {
-    "name": "ViRTUS",
-    "alias": [
-      "水神2"
-    ]
-  },
-  {
-    "name": "ATLAS RUSH",
-    "alias": [
-      "阿特拉斯衝"
-    ]
-  },
-  {
-    "name": "Moon of Noon",
-    "alias": [
-      "月兒子",
-      "給菫神跪了",
-      "給堇神跪了"
-    ]
-  },
-  {
-    "name": "Contrapasso -paradiso-",
-    "alias": [
-      "齒輪"
-    ]
-  },
-  {
-    "name": "VERTeX",
-    "alias": [
-      "水神",
-      "水神1",
-      "漩渦打架"
-    ]
-  },
-  {
-    "name": "VERTeX (rintaro soma deconstructed remix)",
-    "alias": [
-      "水神1.5",
-      "水神3",
-      "水神remix"
-    ]
-  },
-  {
-    "name": "源平大戦絵巻テーマソング",
-    "alias": [
-      "源平大戰",
-      "原批大戰",
-      "源平",
-      "源平繪卷"
-    ]
-  },
-  {
-    "name": "SILENT BLUE",
-    "alias": [
-      "沉默藍"
-    ]
-  },
-  {
-    "name": "Prophesy One",
-    "alias": [
-      "預言一"
-    ]
-  },
-  {
-    "name": "Garakuta Doll Play",
-    "alias": [
-      "GDP"
-    ]
-  },
-  {
-    "name": "Alea jacta est!",
-    "alias": [
-      "黑人打架"
-    ]
-  },
-  {
-    "name": "Divide et impera!",
-    "alias": [
-      "黑人打架2",
-      "貓貓打架"
-    ]
-  },
-  {
-    "name": "雷切-RAIKIRI-",
-    "alias": [
-      "雷切"
-    ]
-  },
-  {
-    "name": "FFT",
-    "alias": [
-      "快速傅立葉轉換"
-    ]
-  },
-  {
-    "name": "Like the Wind [Reborn]",
-    "alias": [
-      "一塊錢"
-    ]
-  },
-  {
-    "name": "Nerverakes",
-    "alias": [
-      "兩塊錢"
-    ]
-  },
-  {
-    "name": "君の知らない物語",
-    "alias": []
-  },
-  {
-    "name": "CYCLES",
-    "alias": []
-  },
-  {
-    "name": "QZKago Requiem",
-    "alias": [
-      "QZ卡狗"
-    ]
-  },
-  {
-    "name": "Credits",
-    "alias": [
-      "信用"
-    ]
-  }
-]
+{
+  "alias": [
+    {
+      "name": "系ぎて",
+      "alias": [
+        "系",
+        "6A級景區",
+        "倆舞神越級"
+      ]
+    },
+    {
+      "name": "インドア系ならトラックメイカー",
+      "alias": [
+        "室內系",
+        "卡車製造機",
+        "TrackMaker"
+      ]
+    },
+    {
+      "name": "PANDORA PARADOXXX",
+      "alias": [
+        "潘"
+      ]
+    },
+    {
+      "name": "ウミユリ海底譚",
+      "alias": [
+        "海百合海底譚",
+        "海底譚"
+      ]
+    },
+    {
+      "name": "花と、雪と、ドラムンベース。",
+      "alias": [
+        "花雪阿嬤",
+        "花一輪"
+      ]
+    },
+    {
+      "name": "幸せになれる隠しコマンドがあるらしい",
+      "alias": [
+        "幸隱",
+        "隱藏指令"
+      ]
+    },
+    {
+      "name": "きゅうくらりん",
+      "alias": [
+        "心跳不已"
+      ]
+    },
+    {
+      "name": "sølips",
+      "alias": [
+        "嗦"
+      ]
+    },
+    {
+      "name": "raputa",
+      "alias": [
+        "拉葡萄",
+        "葡萄"
+      ]
+    },
+    {
+      "name": "Southern Cross",
+      "alias": [
+        "南十字"
+      ]
+    },
+    {
+      "name": "Oshama Scramble!",
+      "alias": [
+        "Obama Scramble",
+        "奶貓"
+      ]
+    },
+    {
+      "name": "Fragrance",
+      "alias": [
+        "斜塔",
+        "香水"
+      ]
+    },
+    {
+      "name": "tape/stop/night",
+      "alias": [
+        "強虫",
+        "tsn"
+      ]
+    },
+    {
+      "name": "弱虫モンブラン",
+      "alias": [
+        "弱虫"
+      ]
+    },
+    {
+      "name": "Our Wrenally",
+      "alias": [
+        "OW",
+        "魔法阿嬤"
+      ]
+    },
+    {
+      "name": "ViRTUS",
+      "alias": [
+        "水神2"
+      ]
+    },
+    {
+      "name": "ATLAS RUSH",
+      "alias": [
+        "阿特拉斯衝"
+      ]
+    },
+    {
+      "name": "Moon of Noon",
+      "alias": [
+        "月兒子",
+        "給菫神跪了",
+        "給堇神跪了"
+      ]
+    },
+    {
+      "name": "Contrapasso -paradiso-",
+      "alias": [
+        "齒輪"
+      ]
+    },
+    {
+      "name": "VERTeX",
+      "alias": [
+        "水神",
+        "水神1",
+        "漩渦打架"
+      ]
+    },
+    {
+      "name": "VERTeX (rintaro soma deconstructed remix)",
+      "alias": [
+        "水神1.5",
+        "水神3",
+        "水神remix"
+      ]
+    },
+    {
+      "name": "源平大戦絵巻テーマソング",
+      "alias": [
+        "源平大戰",
+        "原批大戰",
+        "源平",
+        "源平繪卷"
+      ]
+    },
+    {
+      "name": "SILENT BLUE",
+      "alias": [
+        "沉默藍"
+      ]
+    },
+    {
+      "name": "Prophesy One",
+      "alias": [
+        "預言一"
+      ]
+    },
+    {
+      "name": "Garakuta Doll Play",
+      "alias": [
+        "GDP"
+      ]
+    },
+    {
+      "name": "Alea jacta est!",
+      "alias": [
+        "黑人打架"
+      ]
+    },
+    {
+      "name": "Divide et impera!",
+      "alias": [
+        "黑人打架2",
+        "貓貓打架"
+      ]
+    },
+    {
+      "name": "雷切-RAIKIRI-",
+      "alias": [
+        "雷切"
+      ]
+    },
+    {
+      "name": "FFT",
+      "alias": [
+        "快速傅立葉轉換"
+      ]
+    },
+    {
+      "name": "Like the Wind [Reborn]",
+      "alias": [
+        "一塊錢"
+      ]
+    },
+    {
+      "name": "Nerverakes",
+      "alias": [
+        "兩塊錢"
+      ]
+    },
+    {
+      "name": "君の知らない物語",
+      "alias": []
+    },
+    {
+      "name": "CYCLES",
+      "alias": []
+    },
+    {
+      "name": "QZKago Requiem",
+      "alias": [
+        "QZ卡狗"
+      ]
+    },
+    {
+      "name": "Credits",
+      "alias": [
+        "信用"
+      ]
+    }
+  ],
+  "last_update": 1762070709985
+}
