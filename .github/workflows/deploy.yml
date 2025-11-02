@@ -21,6 +21,9 @@ jobs:
                 run: |
                     npm i
                     node script.js
+                env:
+                    DATA_URL: ${{ vars.DATA_URL }}
+                    ARCADE_LIST_URL: ${{ vars.ARCADE_LIST_URL }}
     deploy:
         needs: build
         runs-on: ubuntu-latest
