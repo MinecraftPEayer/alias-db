@@ -13,9 +13,11 @@ const fs = require('fs');
             throw new Error('Environment variable DATA_URL is not set');
         }
 
+        const nowTime = Date.now();
+
         try {
             const response = await axios.get(url);
-            fs.writeFileSync(filePath, JSON.stringify(response.data, null, 2));
+            fs.writeFileSync(filePath, JSON.stringify({ alias: response.data, last_update: nowTime }, null, 2));
             console.log(`Data saved to ${filePath}`);
         } catch (error) {
             throw new Error('Error fetching data:', error);
