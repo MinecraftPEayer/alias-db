@@ -19,7 +19,8 @@
     {
       "name": "PANDORA PARADOXXX",
       "alias": [
-        "潘"
+        "潘",
+        "潘朵拉悖論論論"
       ]
     },
     {
@@ -245,7 +246,20 @@
       "alias": [
         "相信彩虹"
       ]
+    },
+    {
+      "name": "AFTER PANDORA",
+      "alias": [
+        "後潘"
+      ]
+    },
+    {
+      "name": "Straight into the lights",
+      "alias": [
+        "直入光",
+        "直進光"
+      ]
     }
   ],
-  "last_update": 1763513611967
+  "last_update": 1763599936407
 }
