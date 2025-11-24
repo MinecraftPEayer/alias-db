@@ -259,7 +259,19 @@
         "直入光",
         "直進光"
       ]
+    },
+    {
+      "name": "World's end BLACKBOX",
+      "alias": [
+        "世終黑盒"
+      ]
+    },
+    {
+      "name": "World's end loneliness",
+      "alias": [
+        "世終孤獨"
+      ]
     }
   ],
-  "last_update": 1763859637654
+  "last_update": 1763945837448
 }
