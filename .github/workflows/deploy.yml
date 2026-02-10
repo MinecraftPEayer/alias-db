@@ -1,8 +1,8 @@
 name: Daily Deploy
 
 env:
-    DATA_URL: https://alias-db.minecraftpeayer.me/api/get/
-    ARCADE_LIST_URL: https://alias-db.minecraftpeayer.me/arcades.json
+    DATA_URL: https://alias-db.minecraftpeayer.com/api/get/
+    ARCADE_LIST_URL: https://alias-db.minecraftpeayer.com/arcades.json
 
 on:
     schedule:
